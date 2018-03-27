@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hiltonhart.com/sitemap.txt
